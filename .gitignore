@@ -1,2 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
 *.class
 *.log
+
+.bsp/
+project/build.properties
+project/target/config-classes/$01289f1647e274363543.cache
+project/target/config-classes/$14f53bc49801212b3086.cache
+project/target/config-classes/$4951c6ef58ac7324bdf4.cache
+project/target/config-classes/$c336c5b928ba40b524ec.cache
+project/target/scala-2.12/
+project/target/streams/
+target/.history3
+target/global-logging/
+target/scala-2.13/update/
+target/streams/
+target/task-temp-directory/
+project/target/config-classes/$65c3b15756424a4d09c7.cache
+project/target/config-classes/$83f1d281cc43d1f03085.cache
+.idea
