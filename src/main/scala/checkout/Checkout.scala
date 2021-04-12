@@ -1,4 +1,4 @@
-import checkout.model.{ItemPricingRule, PricingRules}
+import checkout.Model.{ItemPricingRule, PricingRules}
 
 class Checkout(items: Seq[Char], rules: PricingRules) {
 

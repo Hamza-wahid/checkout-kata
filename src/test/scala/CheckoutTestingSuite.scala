@@ -1,4 +1,4 @@
-import checkout.model.ItemPricingRule
+import checkout.Model.ItemPricingRule
 import org.scalatest.flatspec.AnyFlatSpec
 
 class CheckoutTestingSuite extends AnyFlatSpec {
