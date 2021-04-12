@@ -19,3 +19,13 @@ target/task-temp-directory/
 project/target/config-classes/$65c3b15756424a4d09c7.cache
 project/target/config-classes/$83f1d281cc43d1f03085.cache
 .idea
+project/project/target/config-classes/$7240f6a2f01ddef98b45.cache
+project/target/.sbt-compilation-infos/
+project/target/config-classes/$01f648e60b12ebd6d261.cache
+project/target/config-classes/$84876e3ebfc67eb006db.cache
+project/target/config-classes/$a28c0a5b2f5b0a410581.cache
+project/target/config-classes/$aa9babfb103365f8480f.cache
+project/target/config-classes/$ea9db2f85f0da88ab276.cache
+target/scala-2.13/test-zinc/
+target/scala-2.13/zinc/
+target/test-reports/
